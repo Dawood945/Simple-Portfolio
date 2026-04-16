@@ -1,7 +1,5 @@
 # Dawood's Portfolio 🚀
 
-![Portfolio Screenshot](src/assets/img1.jpg)
-
 ## Overview
 A modern, responsive personal portfolio website showcasing front-end development skills. Built with React and TailwindCSS, featuring smooth animations, interactive sections, and a clean design.
 
@@ -36,7 +34,7 @@ Additional tools: React Router, React Icons, Axios.
    ```
    npm run dev
    ```
-   Open [http://localhost:5173](http://localhost:5173) in your browser.
+   Open [http://localhost:5173] in your browser.
 
 4. **Build for production**:
    ```
@@ -47,16 +45,6 @@ Additional tools: React Router, React Icons, Axios.
    ```
    npm run lint
    ```
-
-## 📱 Screenshots
-### Hero Section
-![Hero](src/assets/img1.jpg)
-
-### Mobile View
-![Mobile](src/assets/mobileimg.svg)
-
-### Projects
-![Projects](src/assets/img2.jpg)
 
 ## 📂 Project Structure
 ```
